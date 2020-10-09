@@ -1,1 +1,2 @@
 Cold and Dry, but everything is my favourite color
+now im adding more lines in my txt file using nano editor
