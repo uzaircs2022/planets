@@ -1,4 +1,5 @@
 Cold and Dry, but everything is my favourite color
 now im adding more lines in my txt file using nano editor
 adding one more line for long term purpose
-added a new line in Wolfmn copy
+sorted conflict in merging
+
